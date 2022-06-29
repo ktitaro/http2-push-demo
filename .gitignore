@@ -1,0 +1,10 @@
+# Mac OS
+.DS_Store
+
+# Node.js
+node_modules
+*.log
+
+# Project
+ssl.cert
+ssl.key
